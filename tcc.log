@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  20 JUN 2016 17:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  20 JUN 2016 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,11 +1087,11 @@ l.3 \cleardoublepage
 
 ]) (./fixos/indiceAutomatico.tex (./tcc.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 32.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 26.
+(Font)              <10> on input line 32.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 32.
 ) [7] [8
 
 ])
@@ -1112,15 +1112,44 @@ ned on input line 5.
 ] (./editaveis/tecnicas.tex)
 [13] [14
 
-] (./editaveis/gerencia.tex) [15] [16
+] (./editaveis/gerencia.tex
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
 
-] (./editaveis/desenvolvimento.tex) [17] [18
+<figuras/portfolio.png, id=134, 1075.01625pt x 262.9825pt>
+File: figuras/portfolio.png Graphic file (type png)
 
-] (./editaveis/conclusao.tex)) (./tcc.bbl (./tcc.brf)
+<use figuras/portfolio.png>
+Package pdftex.def Info: figuras/portfolio.png used on input line 15.
+(pdftex.def)             Requested size: 429.99889pt x 105.19113pt.
+ [15 <./figuras/portfolio.png>]
+<figuras/programa.png, id=143, 1072.005pt x 382.42876pt>
+File: figuras/programa.png Graphic file (type png)
+
+<use figuras/programa.png>
+Package pdftex.def Info: figuras/programa.png used on input line 53.
+(pdftex.def)             Requested size: 428.7944pt x 152.96878pt.
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./figuras/programa.png>]
+Underfull \vbox (badness 1845) has occurred while \output is active []
+
+ [18])
+[19] [20
+
+] (./editaveis/desenvolvimento.tex) [21] [22
+
+]
+(./editaveis/conclusao.tex)) (./tcc.bbl (./tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [19] [20
+ [23] [24
 
 ]
 bibitemlist
@@ -1129,16 +1158,16 @@ LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
 )
 No file tcc.ind.
-(./editaveis/apendices.tex [21] [22
+(./editaveis/apendices.tex [25] [26
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-[23
+[27
 
-] [24] <figuras/cronograma.png, id=163, 932.48375pt x 567.11874pt>
+] [28] <figuras/cronograma.png, id=203, 932.48375pt x 567.11874pt>
 File: figuras/cronograma.png Graphic file (type png)
 
 <use figuras/cronograma.png>
@@ -1149,12 +1178,12 @@ Overfull \hbox (11.24074pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-[25
+[29
 
- <./figuras/cronograma.png>] [26
+ <./figuras/cronograma.png>] [30
 
 ]
-<figuras/Eletrojun.png, id=172, 875.52094pt x 831.85782pt>
+<figuras/Eletrojun.png, id=213, 875.52094pt x 831.85782pt>
 File: figuras/Eletrojun.png Graphic file (type png)
 
 <use figuras/Eletrojun.png>
@@ -1167,7 +1196,7 @@ Overfull \hbox (26.53801pt too wide) in paragraph at lines 15--17
 
 ) 
 AED: lastpage setting LastPage
-[27 <./figuras/Eletrojun.png>]
+[31 <./figuras/Eletrojun.png>]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1191,22 +1220,23 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 12205 strings out of 493304
- 177780 string characters out of 6139871
- 297656 words of memory out of 5000000
- 15318 multiletter control sequences out of 15000+600000
+ 12261 strings out of 493304
+ 178594 string characters out of 6139871
+ 299807 words of memory out of 5000000
+ 15356 multiletter control sequences out of 15000+600000
  64043 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,13n,38p,604b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
-public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on tcc.pdf (29 pages, 643933 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+ssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on tcc.pdf (33 pages, 774179 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 269 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 
