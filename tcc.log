@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  21 JUN 2016 07:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  21 JUN 2016 09:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1126,6 +1126,18 @@ LaTeX Warning: Label `my-label' multiply defined.
 
 LaTeX Warning: Label `my-label' multiply defined.
 
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
 )
 \openout1 = `tcc.aux'.
 
@@ -1288,15 +1300,15 @@ l.3 \cleardoublepage
 
 ]) (./fixos/indiceAutomatico.tex (./tcc.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 45.
+(Font)              <14.4> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 45.
+(Font)              <10> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 45.
-
+(Font)              <7> on input line 43.
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7])
+ [7]
 [8]) (./editaveis/conteudo.tex (./editaveis/introducao.tex) [9
 
 
@@ -1305,108 +1317,122 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 (./editaveis/contexto.tex) [11] [12
 
-] (./editaveis/tecnicas.tex) [13] [14
-
-]
-(./editaveis/gerencia.tex
+] (./editaveis/gerencia.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
- (/usr/share/texmf/tex/latex/lm/omslmr.fd
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
 
-<figuras/portfolio.png, id=316, 1075.01625pt x 262.9825pt>
+<figuras/portfolio.png, id=314, 1075.01625pt x 262.9825pt>
 File: figuras/portfolio.png Graphic file (type png)
 
 <use figuras/portfolio.png>
 Package pdftex.def Info: figuras/portfolio.png used on input line 16.
 (pdftex.def)             Requested size: 429.99889pt x 105.19113pt.
- [15 <./figuras/portfolio.png>]
-Overfull \hbox (129.61139pt too wide) in paragraph at lines 44--59
+ [13 <./figuras/portfolio.png>]
+Overfull \hbox (61.23064pt too wide) in paragraph at lines 44--60
  [][] 
  []
 
-[16] <figuras/programa.png, id=329, 1072.005pt x 382.42876pt>
+
+Overfull \hbox (32.21452pt too wide) in paragraph at lines 67--84
+ [][] 
+ []
+
+[14]
+Overfull \hbox (36.37907pt too wide) in paragraph at lines 90--105
+[][] 
+ []
+
+
+Overfull \hbox (49.4169pt too wide) in paragraph at lines 111--126
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<figuras/programa.png, id=331, 1072.005pt x 382.42876pt>
 File: figuras/programa.png Graphic file (type png)
 
 <use figuras/programa.png>
-Package pdftex.def Info: figuras/programa.png used on input line 79.
+Package pdftex.def Info: figuras/programa.png used on input line 146.
 (pdftex.def)             Requested size: 428.7944pt x 152.96878pt.
- [17 <./figuras/programa.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-<figuras/time.png, id=341, 1073.00874pt x 322.20375pt>
+ [16] [17 <./figuras/programa.png>] [18]
+<figuras/time.png, id=348, 1073.00874pt x 322.20375pt>
 File: figuras/time.png Graphic file (type png)
  <use figuras/time.png>
-Package pdftex.def Info: figuras/time.png used on input line 178.
+Package pdftex.def Info: figuras/time.png used on input line 245.
 (pdftex.def)             Requested size: 429.19589pt x 128.87921pt.
 
-[19] [20 <./figuras/time.png>]
-Overfull \hbox (12.22754pt too wide) in paragraph at lines 255--261
+[19 <./figuras/time.png>]
+Overfull \hbox (12.22754pt too wide) in paragraph at lines 330--336
  [][] 
  []
 
-[21]
-Overfull \hbox (25.71184pt too wide) in paragraph at lines 372--378
+[20] [21]
+Overfull \hbox (25.71184pt too wide) in paragraph at lines 447--453
  [][] 
  []
 
 [22] [23]
-Overfull \hbox (52.76813pt too wide) in paragraph at lines 514--520
+Overfull \hbox (52.76813pt too wide) in paragraph at lines 589--595
  [][] 
  []
 
 [24] [25] [26] [27] [28] [29]
-<figuras/origem.jpg, id=390, 733.74126pt x 644.4075pt>
+<figuras/origem.jpg, id=397, 733.74126pt x 644.4075pt>
 File: figuras/origem.jpg Graphic file (type jpg)
 
 <use figuras/origem.jpg>
-Package pdftex.def Info: figuras/origem.jpg used on input line 964.
+Package pdftex.def Info: figuras/origem.jpg used on input line 1039.
 (pdftex.def)             Requested size: 293.4913pt x 257.75844pt.
- <figuras/status.jpg, id=391, 1092.08pt x 298.11375pt>
+ <figuras/status.jpg, id=398, 1092.08pt x 298.11375pt>
 File: figuras/status.jpg Graphic file (type jpg)
 
 <use figuras/status.jpg>
-Package pdftex.def Info: figuras/status.jpg used on input line 976.
+Package pdftex.def Info: figuras/status.jpg used on input line 1051.
 (pdftex.def)             Requested size: 436.82426pt x 119.24338pt.
- [30 <./figuras/origem.jpg>]
-<figuras/prioridade.jpg, id=398, 303.1325pt x 43.16125pt>
+
+<figuras/prioridade.jpg, id=399, 303.1325pt x 43.16125pt>
 File: figuras/prioridade.jpg Graphic file (type jpg)
 
 <use figuras/prioridade.jpg>
-Package pdftex.def Info: figuras/prioridade.jpg used on input line 988.
+Package pdftex.def Info: figuras/prioridade.jpg used on input line 1063.
 (pdftex.def)             Requested size: 121.25084pt x 17.26418pt.
-
-<figuras/risco.jpg, id=399, 790.955pt x 430.60875pt>
+ [30 <./figuras/origem.jpg> <./figuras/status.jpg>] <figuras/risco.jpg, id=406,
+ 790.955pt x 430.60875pt>
 File: figuras/risco.jpg Graphic file (type jpg)
  <use figuras/risco.jpg>
-Package pdftex.def Info: figuras/risco.jpg used on input line 1004.
+Package pdftex.def Info: figuras/risco.jpg used on input line 1079.
 (pdftex.def)             Requested size: 316.3764pt x 172.24043pt.
 
-[31 <./figuras/status.jpg> <./figuras/prioridade.jpg> <./figuras/risco.jpg>]
 <figuras/rast1.jpg, id=407, 870.25125pt x 829.0975pt>
 File: figuras/rast1.jpg Graphic file (type jpg)
  <use figuras/rast1.jpg>
-Package pdftex.def Info: figuras/rast1.jpg used on input line 1020.
+Package pdftex.def Info: figuras/rast1.jpg used on input line 1095.
 (pdftex.def)             Requested size: 348.09433pt x 331.63313pt.
 
-<figuras/rast2.jpg, id=408, 1412.27625pt x 862.22125pt>
+[31 <./figuras/prioridade.jpg> <./figuras/risco.jpg>]
+<figuras/rast2.jpg, id=414, 1412.27625pt x 862.22125pt>
 File: figuras/rast2.jpg Graphic file (type jpg)
 
 <use figuras/rast2.jpg>
-Package pdftex.def Info: figuras/rast2.jpg used on input line 1028.
+Package pdftex.def Info: figuras/rast2.jpg used on input line 1103.
 (pdftex.def)             Requested size: 353.06819pt x 215.55478pt.
- [32 <./figuras/rast1.jpg>]
-<figuras/rast3.jpg, id=414, 1414.28375pt x 856.19875pt>
+
+<figuras/rast3.jpg, id=415, 1414.28375pt x 856.19875pt>
 File: figuras/rast3.jpg Graphic file (type jpg)
 
 <use figuras/rast3.jpg>
-Package pdftex.def Info: figuras/rast3.jpg used on input line 1036.
+Package pdftex.def Info: figuras/rast3.jpg used on input line 1111.
 (pdftex.def)             Requested size: 353.57007pt x 214.04916pt.
-) [33 <./figuras/rast2.jpg> <./figuras/rast3.jpg>]
-[34
+) [32 <./figuras/rast1.jpg> <./figuras/rast2.jpg>]
+[33 <./figuras/rast3.jpg>] [34
 
 ] (./editaveis/sprint.tex
 Overfull \hbox (35.53365pt too wide) in paragraph at lines 28--35
@@ -1438,7 +1464,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 [43
 
-] [44] <figuras/cronograma.png, id=471, 932.48375pt x 567.11874pt>
+] [44] <figuras/cronograma.png, id=477, 932.48375pt x 567.11874pt>
 File: figuras/cronograma.png Graphic file (type png)
 
 <use figuras/cronograma.png>
@@ -1454,7 +1480,7 @@ Overfull \hbox (11.24074pt too wide) in paragraph at lines 8--10
  <./figuras/cronograma.png>] [46
 
 ]
-<figuras/Eletrojun.png, id=480, 875.52094pt x 831.85782pt>
+<figuras/Eletrojun.png, id=486, 875.52094pt x 831.85782pt>
 File: figuras/Eletrojun.png Graphic file (type png)
 
 <use figuras/Eletrojun.png>
@@ -1491,13 +1517,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 12427 strings out of 493304
- 180361 string characters out of 6139871
- 304530 words of memory out of 5000000
- 15405 multiletter control sequences out of 15000+600000
+ 12424 strings out of 493304
+ 180284 string characters out of 6139871
+ 306530 words of memory out of 5000000
+ 15402 multiletter control sequences out of 15000+600000
  71075 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,14n,38p,715b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,38p,715b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
@@ -1506,10 +1532,10 @@ xmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on tcc.pdf (49 pages, 2168742 bytes).
+Output written on tcc.pdf (49 pages, 2173528 bytes).
 PDF statistics:
- 664 PDF objects out of 1000 (max. 8388607)
- 568 compressed objects within 6 object streams
- 168 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 668 PDF objects out of 1000 (max. 8388607)
+ 572 compressed objects within 6 object streams
+ 171 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
