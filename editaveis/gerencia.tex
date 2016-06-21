@@ -3,13 +3,14 @@
 A divisão em camadas do SAFe proporciona uma visão ampla de todos os níveis de requisitos que devem ser tratados. A camada Portifólio abrange os requisitos a nível de negócio, ou seja, uma visão com alto nível de abstração. De acordo com o nosso processo, o nível de portifólio visto na (Figura \ref{img:portfolio}) possui as seguintes tarefas:
 
 \begin{itemize}
-\item P01 - Analisar a empresa Eletrojun.
-\item P02 - Compreender as necessidades da empresa.
-\item P03 - Identificar conjunto de épicos.
-\item P04 - Priorizar épico.
-\item P05 - Gerenciar épicos
+\item Analisar a empresa Eletrojun.
+\item Compreender as necessidades da empresa.
+\item Identificar conjunto de épicos.
+\item Priorizar épico.
+\item Gerenciar épicos.
 \end{itemize}
 
+\FloatBarrier
 \begin{figure}[!htpd]
 		\centering
 		\includegraphics[scale=0.4]{figuras/portfolio}
@@ -29,8 +30,8 @@ Para a especificação dos épicos utilizou-se o padrão recomendado pelo SAFe [
 
 \textbf{Épico 01 - EP-01:} Gerenciamento de Usuários: Abrange todas as ações de administração dos usuários do sistema, desde o cadastro de um usuário até a sua exclusão do sistema.
 
-\textbf{Épico 02 - EP-02:} Gerenciamento de Projetos: Abrange todas as ações de administração de projetos no sistema, desde a sua publicação até o seu cumprimento total;
 
+\textbf{Épico 02 - EP-02:} Gerenciamento de Projetos: Abrange todas as ações de administração de projetos no sistema, desde a sua publicação até o seu cumprimento total;
 \textbf{Épico 03 - EP-03:} Gerenciamento de Atividades: Abrange todas as ações de administração e gerenciamento de atividades pontuais, dentro e fora dos projetos.
 
 \textbf{Épico 04 - EP-04:} Gerenciamento de Premiações: Abrange todas as ações manutenção de premiações aos usuários do sistema.
@@ -48,6 +49,7 @@ A camada de programa é a camada intermediária do processo. Este nível é resp
 \item Planejamento da Release
 \end{itemize}
 
+\FloatBarrier
 \begin{figure}[!htpd]
 		\centering
 		\includegraphics[scale=0.4]{figuras/programa}
@@ -58,8 +60,11 @@ A camada de programa é a camada intermediária do processo. Este nível é resp
 \subsection{Requisitos não-funcionais}
 
 \textbf{Requisitos de portabilidade:} O sistema deverá rodar em dispositivos móveis e também em Computadores. Os navegadores suportados devem incluir Google Chrome, Internet Explorer 8 ao 11, Mozilla Firefox, Ópera e Safari.
+
 \textbf{Requisitos de implementação:} O sistema deverá ser desenvolvido na linguagem Ruby com Framework Rails.
+
 \textbf{Requisitos de eficiência:} O sistema deverá processar todas as requisições dos usuários ao mesmo tempo e sem demora .
+
 \textbf{Requisitos de confiabilidade:} O sistema deverá ter alta disponibilidade, ficando disponível 24 horas por dia e todos os dias da semana.
 
 \subsection{Features Identificadas}
@@ -129,3 +134,142 @@ IMAGEMMMMMMMMMM
 
 Como descrito acima, a Feature 2 terá uma parcela entregue na Sprint 1 e uma outra parcela entregue na Sprint 2, garantindo a plena usabilidade das duas parcelas.
 O Roadmap completo se encontra no apêndice XX.
+
+\section{Nível de Time}
+
+O nível de time compreende a camada mais baixa de todo o processo ágil, esta camada é responsável pela implementação da solução técnica, e também pelo detalhamento mais estrito dos requisitos levantados nas camadas superiores, gerando assim as histórias de usuário. O nível de time (Figura \ref{img:programa}) são desempenhadas as seguintes atividades:
+
+\begin{itemize}
+\item Levantar User Stories
+\item Planejar Sprint
+\item Priorizar e detalhar User Stories
+\item Desenvolver Sprint
+\item Retrospectiva da Sprint
+\item Gerenciar User Stories
+\end{itemize}
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/time}
+		\label{img:time}
+		\caption{Processo à nível de Time}
+\end{figure}
+
+\subsection{User Stories Identificadas}
+
+Logo abaixo é possível verificar as histórias dos usuários, que estão organizadas nos respectivos épicos e features. As histórias seguem o padrão do cartão abaixo.
+
+TABELAAA
+
+Atores identificados:
+
+\begin{itemize}
+\item Usuário do sistema
+\item Usuário colaborador
+\item Gerente de projeto
+\item Administrador do Sistema
+\end{itemize}
+
+\section{Gerência de Mudança}
+
+\subsection{Atributos de Requisitos}
+
+De forma a contribuir na identificação e na obtenção de informações mais detalhadas dos requisitos dentro do projeto, foi realizada uma identificação por atributos nestes, dentro da plataforma, de forma a identificar rastreabilidade, progresso, prioridade e risco dentro do projeto.
+
+\subsubsection{Origem}
+
+De forma a garantir a rastreabilidade e origem dos requisitos, os atributos foram identificados de acordo com a seguinte tabela:
+
+\FloatBarrier
+\begin{table}[\htp]
+\centering
+\caption{Atributos do requisito}
+\label{my-label}
+\begin{tabular}{|l|l|l}
+\cline{1-2}
+EP & Épico      &  \\ \cline{1-2}
+FT & Feature    &  \\ \cline{1-2}
+US & User Story &  \\ \cline{1-2}
+\end{tabular}
+\end{table}
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/origem}
+		\label{img:origem}
+		\caption{Atributo do requisito - Origem}
+\end{figure}
+
+\subsubsection{Status}
+
+Visando monitorar o grau de completude do requisito, foi utilizado um atributo de Status do requisito, em forma de porcentagem.
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/status}
+		\label{img:status}
+		\caption{Atributo do requisito - Status}
+\end{figure}
+
+\subsubsection{Prioridade}
+
+Para caracterizar a prioridade dos requisitos, eles foram classificado entre prioridade média, alta ou baixa, de forma a evidenciar sua importância no contexto do projeto.
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/prioridade}
+		\label{img:prioridade}
+		\caption{Atributo do requisito - Prioridade}
+\end{figure}
+
+\subsubsection{Complexidade}
+
+De forma a ter um controle de tempo de entrega dos requisitos, foi atribuído ainda o nível de complexidade deste, de forma a permitir um maior controle de data de entrega. Tal classificação tem 3 níveis: Baixa, Média e Alta. É feita a atribuição na descrição do requisito.
+
+\subsubsection{Risco}
+
+Caracteriza o risco que a implementação deste requisito traz para a integridade do projeto. Também classificado em 3 níveis: Baixo, Médio e Alto e também atribuído na descrição do requisito.
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/risco}
+		\label{img:risco}
+		\caption{Atributo do requisito - Risco}
+\end{figure}
+
+\section{Rastreabilidade}
+
+Rastreabilidade define-se, segundo Edwards, como sendo a técnica usada para prover relacionamento entre requisitos, arquitetura e implementação final do sistema [3]. Ela auxilia ainda na compreensão dos relacionamentos existentes entre requisitos do software ou entre artefatos de requisitos, arquitetura e implementação. Esses relacionamentos permitem aos projetistas mostrar que o projeto atende aos requisitos. A rastreabilidade também apóia a detecção precoce daqueles requisitos não atendidos pelo software [4].
+
+IMAGEMMM
+
+A rastreabilidade foi foi documentada na ferramenta Tracecloud como se segue:
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.4]{figuras/rast1}
+		\label{img:rast1}
+		\caption{Rastreabilidade dos Requisitos (Épicos - Features)}
+\end{figure}
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.25]{figuras/rast2}
+		\label{img:rast2}
+		\caption{Rastreabilidade dos Requisitos (Features - User Stories)}
+\end{figure}
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.25]{figuras/rast3}
+		\label{img:rast3}
+		\caption{Rastreabilidade dos Requisitos completa (Features - User Stories)}
+\end{figure}
