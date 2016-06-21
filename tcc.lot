@@ -1,73 +1,78 @@
 \select@language {brazil}
-\contentsline {table}{\numberline {1}{\ignorespaces My caption}}{14}{table.3.1}
-\contentsline {table}{\numberline {2}{\ignorespaces My caption}}{15}{table.3.2}
-\contentsline {table}{\numberline {3}{\ignorespaces My caption}}{15}{table.3.3}
-\contentsline {table}{\numberline {4}{\ignorespaces My caption}}{16}{table.3.4}
-\contentsline {table}{\numberline {5}{\ignorespaces My caption}}{20}{table.3.5}
-\contentsline {table}{\numberline {6}{\ignorespaces User Story 1}}{20}{table.3.6}
-\contentsline {table}{\numberline {7}{\ignorespaces User Story 2}}{20}{table.3.7}
-\contentsline {table}{\numberline {8}{\ignorespaces User Story 3}}{20}{table.3.8}
-\contentsline {table}{\numberline {9}{\ignorespaces User Story 4}}{20}{table.3.9}
-\contentsline {table}{\numberline {10}{\ignorespaces User Story 5}}{21}{table.3.10}
-\contentsline {table}{\numberline {11}{\ignorespaces User Story 6}}{21}{table.3.11}
-\contentsline {table}{\numberline {12}{\ignorespaces User Story 7}}{21}{table.3.12}
-\contentsline {table}{\numberline {13}{\ignorespaces User Story 8}}{21}{table.3.13}
-\contentsline {table}{\numberline {14}{\ignorespaces User Story 9}}{21}{table.3.14}
-\contentsline {table}{\numberline {15}{\ignorespaces User Story 10}}{21}{table.3.15}
-\contentsline {table}{\numberline {16}{\ignorespaces User Story 11}}{22}{table.3.16}
-\contentsline {table}{\numberline {17}{\ignorespaces User Story 12}}{22}{table.3.17}
-\contentsline {table}{\numberline {18}{\ignorespaces User Story 13}}{22}{table.3.18}
-\contentsline {table}{\numberline {19}{\ignorespaces User Story 14}}{22}{table.3.19}
-\contentsline {table}{\numberline {20}{\ignorespaces User Story 15}}{22}{table.3.20}
-\contentsline {table}{\numberline {21}{\ignorespaces User Story 16}}{22}{table.3.21}
-\contentsline {table}{\numberline {22}{\ignorespaces User Story 17}}{23}{table.3.22}
-\contentsline {table}{\numberline {23}{\ignorespaces User Story 18}}{23}{table.3.23}
-\contentsline {table}{\numberline {24}{\ignorespaces User Story 19}}{23}{table.3.24}
-\contentsline {table}{\numberline {25}{\ignorespaces User Story 20}}{23}{table.3.25}
-\contentsline {table}{\numberline {26}{\ignorespaces User Story 21}}{23}{table.3.26}
-\contentsline {table}{\numberline {27}{\ignorespaces User Story 22}}{23}{table.3.27}
-\contentsline {table}{\numberline {28}{\ignorespaces User Story 23}}{24}{table.3.28}
-\contentsline {table}{\numberline {29}{\ignorespaces User Story 24}}{24}{table.3.29}
-\contentsline {table}{\numberline {30}{\ignorespaces User Story 25}}{24}{table.3.30}
-\contentsline {table}{\numberline {31}{\ignorespaces User Story 26}}{24}{table.3.31}
-\contentsline {table}{\numberline {32}{\ignorespaces User Story 27}}{24}{table.3.32}
-\contentsline {table}{\numberline {33}{\ignorespaces User Story 28}}{24}{table.3.33}
-\contentsline {table}{\numberline {34}{\ignorespaces User Story 29}}{25}{table.3.34}
-\contentsline {table}{\numberline {35}{\ignorespaces User Story 30}}{25}{table.3.35}
-\contentsline {table}{\numberline {36}{\ignorespaces User Story 31}}{25}{table.3.36}
-\contentsline {table}{\numberline {37}{\ignorespaces User Story 32}}{25}{table.3.37}
-\contentsline {table}{\numberline {38}{\ignorespaces User Story 33}}{25}{table.3.38}
-\contentsline {table}{\numberline {39}{\ignorespaces User Story 34}}{25}{table.3.39}
-\contentsline {table}{\numberline {40}{\ignorespaces User Story 35}}{26}{table.3.40}
-\contentsline {table}{\numberline {41}{\ignorespaces User Story 36}}{26}{table.3.41}
-\contentsline {table}{\numberline {42}{\ignorespaces User Story 37}}{26}{table.3.42}
-\contentsline {table}{\numberline {43}{\ignorespaces User Story 38}}{26}{table.3.43}
-\contentsline {table}{\numberline {44}{\ignorespaces User Story 39}}{26}{table.3.44}
-\contentsline {table}{\numberline {45}{\ignorespaces User Story 40}}{26}{table.3.45}
-\contentsline {table}{\numberline {46}{\ignorespaces User Story 41}}{27}{table.3.46}
-\contentsline {table}{\numberline {47}{\ignorespaces User Story 42}}{27}{table.3.47}
-\contentsline {table}{\numberline {48}{\ignorespaces User Story 43}}{27}{table.3.48}
-\contentsline {table}{\numberline {49}{\ignorespaces User Story 44}}{27}{table.3.49}
-\contentsline {table}{\numberline {50}{\ignorespaces User Story 45}}{27}{table.3.50}
-\contentsline {table}{\numberline {51}{\ignorespaces User Story 46}}{27}{table.3.51}
-\contentsline {table}{\numberline {52}{\ignorespaces User Story 47}}{28}{table.3.52}
-\contentsline {table}{\numberline {53}{\ignorespaces User Story 48}}{28}{table.3.53}
-\contentsline {table}{\numberline {54}{\ignorespaces User Story 49}}{28}{table.3.54}
-\contentsline {table}{\numberline {55}{\ignorespaces User Story 50}}{28}{table.3.55}
-\contentsline {table}{\numberline {56}{\ignorespaces User Story 51}}{28}{table.3.56}
-\contentsline {table}{\numberline {57}{\ignorespaces User Story 52}}{28}{table.3.57}
-\contentsline {table}{\numberline {58}{\ignorespaces User Story 53}}{29}{table.3.58}
-\contentsline {table}{\numberline {59}{\ignorespaces User Story 54}}{29}{table.3.59}
-\contentsline {table}{\numberline {60}{\ignorespaces User Story 55}}{29}{table.3.60}
-\contentsline {table}{\numberline {61}{\ignorespaces User Story 56}}{29}{table.3.61}
-\contentsline {table}{\numberline {62}{\ignorespaces User Story 57}}{29}{table.3.62}
-\contentsline {table}{\numberline {63}{\ignorespaces Atributos do requisito}}{30}{table.3.63}
-\contentsline {table}{\numberline {64}{\ignorespaces My caption}}{35}{table.4.64}
-\contentsline {table}{\numberline {65}{\ignorespaces My caption}}{35}{table.4.65}
-\contentsline {table}{\numberline {66}{\ignorespaces My caption}}{35}{table.4.66}
-\contentsline {table}{\numberline {67}{\ignorespaces My caption}}{36}{table.4.67}
-\contentsline {table}{\numberline {68}{\ignorespaces My caption}}{36}{table.4.68}
-\contentsline {table}{\numberline {69}{\ignorespaces My caption}}{36}{table.4.69}
-\contentsline {table}{\numberline {70}{\ignorespaces My caption}}{37}{table.4.70}
-\contentsline {table}{\numberline {71}{\ignorespaces My caption}}{37}{table.4.71}
-\contentsline {table}{\numberline {72}{\ignorespaces My caption}}{37}{table.4.72}
+\contentsline {table}{\numberline {1}{\ignorespaces My caption}}{16}{table.3.1}
+\contentsline {table}{\numberline {2}{\ignorespaces My caption}}{17}{table.3.2}
+\contentsline {table}{\numberline {3}{\ignorespaces My caption}}{17}{table.3.3}
+\contentsline {table}{\numberline {4}{\ignorespaces My caption}}{18}{table.3.4}
+\contentsline {table}{\numberline {5}{\ignorespaces My caption}}{22}{table.3.5}
+\contentsline {table}{\numberline {6}{\ignorespaces User Story 1}}{22}{table.3.6}
+\contentsline {table}{\numberline {7}{\ignorespaces User Story 2}}{22}{table.3.7}
+\contentsline {table}{\numberline {8}{\ignorespaces User Story 3}}{22}{table.3.8}
+\contentsline {table}{\numberline {9}{\ignorespaces User Story 4}}{22}{table.3.9}
+\contentsline {table}{\numberline {10}{\ignorespaces User Story 5}}{23}{table.3.10}
+\contentsline {table}{\numberline {11}{\ignorespaces User Story 6}}{23}{table.3.11}
+\contentsline {table}{\numberline {12}{\ignorespaces User Story 7}}{23}{table.3.12}
+\contentsline {table}{\numberline {13}{\ignorespaces User Story 8}}{23}{table.3.13}
+\contentsline {table}{\numberline {14}{\ignorespaces User Story 9}}{23}{table.3.14}
+\contentsline {table}{\numberline {15}{\ignorespaces User Story 10}}{23}{table.3.15}
+\contentsline {table}{\numberline {16}{\ignorespaces User Story 11}}{24}{table.3.16}
+\contentsline {table}{\numberline {17}{\ignorespaces User Story 12}}{24}{table.3.17}
+\contentsline {table}{\numberline {18}{\ignorespaces User Story 13}}{24}{table.3.18}
+\contentsline {table}{\numberline {19}{\ignorespaces User Story 14}}{24}{table.3.19}
+\contentsline {table}{\numberline {20}{\ignorespaces User Story 15}}{24}{table.3.20}
+\contentsline {table}{\numberline {21}{\ignorespaces User Story 16}}{24}{table.3.21}
+\contentsline {table}{\numberline {22}{\ignorespaces User Story 17}}{25}{table.3.22}
+\contentsline {table}{\numberline {23}{\ignorespaces User Story 18}}{25}{table.3.23}
+\contentsline {table}{\numberline {24}{\ignorespaces User Story 19}}{25}{table.3.24}
+\contentsline {table}{\numberline {25}{\ignorespaces User Story 20}}{25}{table.3.25}
+\contentsline {table}{\numberline {26}{\ignorespaces User Story 21}}{25}{table.3.26}
+\contentsline {table}{\numberline {27}{\ignorespaces User Story 22}}{25}{table.3.27}
+\contentsline {table}{\numberline {28}{\ignorespaces User Story 23}}{26}{table.3.28}
+\contentsline {table}{\numberline {29}{\ignorespaces User Story 24}}{26}{table.3.29}
+\contentsline {table}{\numberline {30}{\ignorespaces User Story 25}}{26}{table.3.30}
+\contentsline {table}{\numberline {31}{\ignorespaces User Story 26}}{26}{table.3.31}
+\contentsline {table}{\numberline {32}{\ignorespaces User Story 27}}{26}{table.3.32}
+\contentsline {table}{\numberline {33}{\ignorespaces User Story 28}}{26}{table.3.33}
+\contentsline {table}{\numberline {34}{\ignorespaces User Story 29}}{27}{table.3.34}
+\contentsline {table}{\numberline {35}{\ignorespaces User Story 30}}{27}{table.3.35}
+\contentsline {table}{\numberline {36}{\ignorespaces User Story 31}}{27}{table.3.36}
+\contentsline {table}{\numberline {37}{\ignorespaces User Story 32}}{27}{table.3.37}
+\contentsline {table}{\numberline {38}{\ignorespaces User Story 33}}{27}{table.3.38}
+\contentsline {table}{\numberline {39}{\ignorespaces User Story 34}}{27}{table.3.39}
+\contentsline {table}{\numberline {40}{\ignorespaces User Story 35}}{28}{table.3.40}
+\contentsline {table}{\numberline {41}{\ignorespaces User Story 36}}{28}{table.3.41}
+\contentsline {table}{\numberline {42}{\ignorespaces User Story 37}}{28}{table.3.42}
+\contentsline {table}{\numberline {43}{\ignorespaces User Story 38}}{28}{table.3.43}
+\contentsline {table}{\numberline {44}{\ignorespaces User Story 39}}{28}{table.3.44}
+\contentsline {table}{\numberline {45}{\ignorespaces User Story 40}}{28}{table.3.45}
+\contentsline {table}{\numberline {46}{\ignorespaces User Story 41}}{29}{table.3.46}
+\contentsline {table}{\numberline {47}{\ignorespaces User Story 42}}{29}{table.3.47}
+\contentsline {table}{\numberline {48}{\ignorespaces User Story 43}}{29}{table.3.48}
+\contentsline {table}{\numberline {49}{\ignorespaces User Story 44}}{29}{table.3.49}
+\contentsline {table}{\numberline {50}{\ignorespaces User Story 45}}{29}{table.3.50}
+\contentsline {table}{\numberline {51}{\ignorespaces User Story 46}}{29}{table.3.51}
+\contentsline {table}{\numberline {52}{\ignorespaces User Story 47}}{30}{table.3.52}
+\contentsline {table}{\numberline {53}{\ignorespaces User Story 48}}{30}{table.3.53}
+\contentsline {table}{\numberline {54}{\ignorespaces User Story 49}}{30}{table.3.54}
+\contentsline {table}{\numberline {55}{\ignorespaces User Story 50}}{30}{table.3.55}
+\contentsline {table}{\numberline {56}{\ignorespaces User Story 51}}{30}{table.3.56}
+\contentsline {table}{\numberline {57}{\ignorespaces User Story 52}}{30}{table.3.57}
+\contentsline {table}{\numberline {58}{\ignorespaces User Story 53}}{31}{table.3.58}
+\contentsline {table}{\numberline {59}{\ignorespaces User Story 54}}{31}{table.3.59}
+\contentsline {table}{\numberline {60}{\ignorespaces User Story 55}}{31}{table.3.60}
+\contentsline {table}{\numberline {61}{\ignorespaces User Story 56}}{31}{table.3.61}
+\contentsline {table}{\numberline {62}{\ignorespaces User Story 57}}{31}{table.3.62}
+\contentsline {table}{\numberline {63}{\ignorespaces Atributos do requisito}}{32}{table.3.63}
+\contentsline {table}{\numberline {64}{\ignorespaces My caption}}{37}{table.4.64}
+\contentsline {table}{\numberline {65}{\ignorespaces My caption}}{37}{table.4.65}
+\contentsline {table}{\numberline {66}{\ignorespaces My caption}}{37}{table.4.66}
+\contentsline {table}{\numberline {67}{\ignorespaces My caption}}{38}{table.4.67}
+\contentsline {table}{\numberline {68}{\ignorespaces My caption}}{38}{table.4.68}
+\contentsline {table}{\numberline {69}{\ignorespaces My caption}}{38}{table.4.69}
+\contentsline {table}{\numberline {70}{\ignorespaces My caption}}{39}{table.4.70}
+\contentsline {table}{\numberline {71}{\ignorespaces My caption}}{39}{table.4.71}
+\contentsline {table}{\numberline {72}{\ignorespaces My caption}}{39}{table.4.72}
+\contentsline {table}{\numberline {73}{\ignorespaces My caption}}{51}{table.C.73}
+\contentsline {table}{\numberline {74}{\ignorespaces My caption}}{52}{table.C.74}
+\contentsline {table}{\numberline {75}{\ignorespaces My caption}}{52}{table.C.75}
+\contentsline {table}{\numberline {76}{\ignorespaces My caption}}{53}{table.C.76}
+\contentsline {table}{\numberline {77}{\ignorespaces My caption}}{53}{table.C.77}
