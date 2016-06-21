@@ -5,6 +5,26 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.2 }
 
+\bibitem[EDWARDS e HOWELL 1991]{ed}
+\abntrefinfo{EDWARDS e HOWELL}{EDWARDS; HOWELL}{1991}
+{EDWARDS, M.; HOWELL, S. \emph{A Methodology for System Requirements
+  Specification and Traceability for Large Real-Time Complex Systems}. [S.l.]:
+  Naval Surface Warfare Center-Dahlgren Division, 1991.}
+
+\bibitem[LEFFINGWELL 2011]{leff}
+\abntrefinfo{LEFFINGWELL}{LEFFINGWELL}{2011}
+{LEFFINGWELL, D. \emph{Agile Software Requirements: Lean Requirements Practices
+  for Team}. [S.l.]: Programs, and the Enterprise, 2011.}
+
+\bibitem[PALMER 1997]{palmer}
+\abntrefinfo{PALMER}{PALMER}{1997}
+{PALMER, J. \emph{Traceability}. [S.l.]: Software Requirements Eng, 1997.}
+
+\bibitem[PHAAL, FARRUKH e PROBERT 2005]{pha}
+\abntrefinfo{PHAAL, FARRUKH e PROBERT}{PHAAL; FARRUKH; PROBERT}{2005}
+{PHAAL, R.; FARRUKH, C.; PROBERT, D. \emph{Developing a technology roadmapping
+  system}. PICMET: [s.n.], 2005.}
+
 \bibitem[SOMMERVILLE 2007]{ian}
 \abntrefinfo{SOMMERVILLE}{SOMMERVILLE}{2007}
 {SOMMERVILLE, I. Engenharia de software 8ª ed.

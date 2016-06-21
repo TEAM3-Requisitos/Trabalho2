@@ -13,6 +13,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: bibliografia.bib
+Warning--I'm ignoring leff's extra "publisher" field
+--line 14 of file bibliografia.bib
+Warning--I'm ignoring palmer's extra "publisher" field
+--line 43 of file bibliografia.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -22,44 +26,45 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-You've used 2 entries,
+You've used 6 entries,
             6711 wiz_defined-function locations,
-            1203 strings with 9397 characters,
-and the built_in function-call counts, 1401 in all, are:
-= -- 218
-> -- 15
+            1223 strings with 9857 characters,
+and the built_in function-call counts, 4336 in all, are:
+= -- 433
+> -- 128
 < -- 0
-+ -- 51
-- -- 5
-* -- 67
-:= -- 254
-add.period$ -- 3
-call.type$ -- 2
-change.case$ -- 10
-chr.to.int$ -- 2
-cite$ -- 1
-duplicate$ -- 33
-empty$ -- 86
-format.name$ -- 23
-if$ -- 317
++ -- 93
+- -- 40
+* -- 269
+:= -- 653
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 46
+chr.to.int$ -- 6
+cite$ -- 5
+duplicate$ -- 184
+empty$ -- 332
+format.name$ -- 186
+if$ -- 1020
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 26
-newline$ -- 13
-num.names$ -- 5
-pop$ -- 49
+missing$ -- 105
+newline$ -- 29
+num.names$ -- 25
+pop$ -- 159
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 21
 quote$ -- 0
-skip$ -- 109
+skip$ -- 265
 stack$ -- 1
-substring$ -- 66
-swap$ -- 8
+substring$ -- 135
+swap$ -- 69
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 8
+while$ -- 32
 width$ -- 0
-write$ -- 22
+write$ -- 78
+(There were 2 warnings)
