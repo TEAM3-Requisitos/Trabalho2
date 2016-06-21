@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  21 JUN 2016 11:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  21 JUN 2016 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,6 +1139,15 @@ LaTeX Warning: Label `my-label' multiply defined.
 LaTeX Warning: Label `my-label' multiply defined.
 
 
+LaTeX Warning: Label `img:cronograma' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
 LaTeX Warning: Label `my-label' multiply defined.
 
 
@@ -1307,7 +1316,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 l.3 \cleardoublepage
                      [2] (./tcc.lot [3
 
-]) [4] [5] [6
+] [4]) [5] [6
 
 ])
 (./editaveis/abreviaturas.tex [7
@@ -1315,12 +1324,16 @@ l.3 \cleardoublepage
 ] [8
 
 ]) (./fixos/indiceAutomatico.tex (./tcc.toc
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 45.
+(Font)              <14.4> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 45.
+(Font)              <10> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 46.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1331,24 +1344,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [12
 
 ]
-(./editaveis/contexto.tex) [13] [14
+(./editaveis/contexto.tex
+<figuras/problema.png, id=385, 2899.83376pt x 2638.85875pt>
+File: figuras/problema.png Graphic file (type png)
 
-] (./editaveis/gerencia.tex
+<use figuras/problema.png>
+Package pdftex.def Info: figuras/problema.png used on input line 17.
+(pdftex.def)             Requested size: 434.9563pt x 395.81174pt.
+ [13]) [14 <./figuras/problema.png>]
+(./editaveis/gerencia.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
-
-(/usr/share/texmf/tex/latex/lm/omslmr.fd
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
 
-<figuras/portfolio.png, id=375, 1075.01625pt x 262.9825pt>
+<figuras/portfolio.png, id=397, 1075.01625pt x 262.9825pt>
 File: figuras/portfolio.png Graphic file (type png)
 
 <use figuras/portfolio.png>
 Package pdftex.def Info: figuras/portfolio.png used on input line 16.
 (pdftex.def)             Requested size: 429.99889pt x 105.19113pt.
- [15 <./figuras/portfolio.png>]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 24.
+ [15
+
+ <./figuras/portfolio.png>]
 Overfull \hbox (61.23064pt too wide) in paragraph at lines 45--61
  [][] 
  []
@@ -1368,21 +1390,24 @@ Overfull \hbox (49.4169pt too wide) in paragraph at lines 115--130
 [][] 
  []
 
-[17] <figuras/programa.png, id=393, 1072.005pt x 382.42876pt>
+[17]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 133.
+ <figuras/programa.png, id=414, 1072.005pt x 382.42876pt>
 File: figuras/programa.png Graphic file (type png)
 
 <use figuras/programa.png>
 Package pdftex.def Info: figuras/programa.png used on input line 150.
 (pdftex.def)             Requested size: 428.7944pt x 152.96878pt.
  [18] [19 <./figuras/programa.png>] [20]
-<figuras/roadmapPRI.png, id=412, 1495.5072pt x 211.992pt>
+<figuras/roadmapPRI.png, id=434, 1495.5072pt x 211.992pt>
 File: figuras/roadmapPRI.png Graphic file (type png)
 
 <use figuras/roadmapPRI.png>
 Package pdftex.def Info: figuras/roadmapPRI.png used on input line 232.
 (pdftex.def)             Requested size: 448.65562pt x 63.59808pt.
 
-<figuras/time.png, id=415, 1073.00874pt x 322.20375pt>
+<figuras/time.png, id=437, 1073.00874pt x 322.20375pt>
 File: figuras/time.png Graphic file (type png)
  <use figuras/time.png>
 Package pdftex.def Info: figuras/time.png used on input line 257.
@@ -1404,33 +1429,33 @@ Overfull \hbox (52.76813pt too wide) in paragraph at lines 626--632
  []
 
 [27] [28] [29] [30] [31] [32]
-<figuras/origem.jpg, id=470, 733.74126pt x 644.4075pt>
+<figuras/origem.jpg, id=492, 733.74126pt x 644.4075pt>
 File: figuras/origem.jpg Graphic file (type jpg)
 
 <use figuras/origem.jpg>
 Package pdftex.def Info: figuras/origem.jpg used on input line 1110.
 (pdftex.def)             Requested size: 293.4913pt x 257.75844pt.
- <figuras/status.jpg, id=471, 1092.08pt x 298.11375pt>
+ <figuras/status.jpg, id=493, 1092.08pt x 298.11375pt>
 File: figuras/status.jpg Graphic file (type jpg)
 
 <use figuras/status.jpg>
 Package pdftex.def Info: figuras/status.jpg used on input line 1123.
 (pdftex.def)             Requested size: 436.82426pt x 119.24338pt.
 
-<figuras/prioridade.jpg, id=472, 303.1325pt x 43.16125pt>
+<figuras/prioridade.jpg, id=494, 303.1325pt x 43.16125pt>
 File: figuras/prioridade.jpg Graphic file (type jpg)
 
 <use figuras/prioridade.jpg>
 Package pdftex.def Info: figuras/prioridade.jpg used on input line 1136.
 (pdftex.def)             Requested size: 121.25084pt x 17.26418pt.
- [33 <./figuras/origem.jpg> <./figuras/status.jpg>] <figuras/risco.jpg, id=479,
+ [33 <./figuras/origem.jpg> <./figuras/status.jpg>] <figuras/risco.jpg, id=501,
  790.955pt x 430.60875pt>
 File: figuras/risco.jpg Graphic file (type jpg)
  <use figuras/risco.jpg>
 Package pdftex.def Info: figuras/risco.jpg used on input line 1153.
 (pdftex.def)             Requested size: 316.3764pt x 172.24043pt.
 
-<figuras/Rastreabilidade.png, id=484, 1155.31625pt x 846.16125pt>
+<figuras/Rastreabilidade.png, id=506, 1155.31625pt x 846.16125pt>
 File: figuras/Rastreabilidade.png Graphic file (type png)
 
 <use figuras/Rastreabilidade.png>
@@ -1442,21 +1467,21 @@ Overfull \hbox (7.11832pt too wide) in paragraph at lines 1166--1168
  []
 
 [34 <./figuras/prioridade.jpg> <./figuras/risco.jpg>]
-<figuras/rast1.jpg, id=493, 870.25125pt x 829.0975pt>
+<figuras/rast1.jpg, id=515, 870.25125pt x 829.0975pt>
 File: figuras/rast1.jpg Graphic file (type jpg)
  <use figuras/rast1.jpg>
 Package pdftex.def Info: figuras/rast1.jpg used on input line 1177.
 (pdftex.def)             Requested size: 348.09433pt x 331.63313pt.
 
 [35 <./figuras/Rastreabilidade.png>]
-<figuras/rast2.jpg, id=500, 1412.27625pt x 862.22125pt>
+<figuras/rast2.jpg, id=522, 1412.27625pt x 862.22125pt>
 File: figuras/rast2.jpg Graphic file (type jpg)
 
 <use figuras/rast2.jpg>
 Package pdftex.def Info: figuras/rast2.jpg used on input line 1186.
 (pdftex.def)             Requested size: 353.06819pt x 215.55478pt.
 
-<figuras/rast3.jpg, id=501, 1414.28375pt x 856.19875pt>
+<figuras/rast3.jpg, id=523, 1414.28375pt x 856.19875pt>
 File: figuras/rast3.jpg Graphic file (type jpg)
 
 <use figuras/rast3.jpg>
@@ -1495,66 +1520,90 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 [49
 
-] [50] <figuras/cronograma.png, id=578, 932.48375pt x 567.11874pt>
-File: figuras/cronograma.png Graphic file (type png)
+] [50] <figuras/cron1.png, id=600, 925.4575pt x 613.29124pt>
+File: figuras/cron1.png Graphic file (type png)
 
-<use figuras/cronograma.png>
-Package pdftex.def Info: figuras/cronograma.png used on input line 8.
-(pdftex.def)             Requested size: 466.24074pt x 283.55867pt.
+<use figuras/cron1.png>
+Package pdftex.def Info: figuras/cron1.png used on input line 8.
+(pdftex.def)             Requested size: 462.72762pt x 306.64487pt.
 
-Overfull \hbox (11.24074pt too wide) in paragraph at lines 8--10
+Overfull \hbox (7.72762pt too wide) in paragraph at lines 8--10
+ [][] 
+ []
+
+<figuras/cron2.png, id=601, 925.4575pt x 194.7275pt>
+File: figuras/cron2.png Graphic file (type png)
+ <use figuras/cron2.png>
+Package pdftex.def Info: figuras/cron2.png used on input line 17.
+(pdftex.def)             Requested size: 462.72762pt x 97.3635pt.
+
+Overfull \hbox (7.72762pt too wide) in paragraph at lines 17--19
  [][] 
  []
 
 [51
 
- <./figuras/cronograma.png>] [52
+ <./figuras/cron1.png> <./figuras/cron2.png>] [52
 
 ]
-<figuras/Eletrojun.png, id=587, 875.52094pt x 831.85782pt>
+<figuras/Eletrojun.png, id=610, 875.52094pt x 831.85782pt>
 File: figuras/Eletrojun.png Graphic file (type png)
 
 <use figuras/Eletrojun.png>
-Package pdftex.def Info: figuras/Eletrojun.png used on input line 18.
+Package pdftex.def Info: figuras/Eletrojun.png used on input line 28.
 (pdftex.def)             Requested size: 481.53801pt x 457.52321pt.
 
-Overfull \hbox (26.53801pt too wide) in paragraph at lines 18--20
+Overfull \hbox (26.53801pt too wide) in paragraph at lines 28--30
  [][] 
  []
 
 [53 <./figuras/Eletrojun.png>] [54
 
 ] [55]
-Overfull \hbox (66.24724pt too wide) in paragraph at lines 69--76
+Overfull \hbox (66.24724pt too wide) in paragraph at lines 80--87
  [][] 
  []
 
 
-Overfull \hbox (60.17621pt too wide) in paragraph at lines 85--94
+Overfull \hbox (60.17621pt too wide) in paragraph at lines 96--105
  [][] 
  []
 
 
-Overfull \hbox (51.08337pt too wide) in paragraph at lines 106--112
+Overfull \hbox (51.08337pt too wide) in paragraph at lines 117--123
  [][] 
  []
 
 [56]
-Overfull \hbox (39.93083pt too wide) in paragraph at lines 126--134
+Overfull \hbox (39.93083pt too wide) in paragraph at lines 137--145
  [][] 
  []
 
-[57] [58] <figuras/roadmap.png, id=614, 1495.5072pt x 263.0628pt>
+[57]
+Overfull \hbox (11.62125pt too wide) in paragraph at lines 176--184
+ [][] 
+ []
+
+
+Overfull \hbox (10.7488pt too wide) in paragraph at lines 196--209
+ [][] 
+ []
+
+
+Underfull \vbox (badness 3148) has occurred while \output is active []
+
+ [58]
+[59] [60
+
+] <figuras/roadmap.png, id=647, 1495.5072pt x 263.0628pt>
 File: figuras/roadmap.png Graphic file (type png)
 
 <use figuras/roadmap.png>
-Package pdftex.def Info: figuras/roadmap.png used on input line 149.
+Package pdftex.def Info: figuras/roadmap.png used on input line 217.
 (pdftex.def)             Requested size: 448.65562pt x 78.91943pt.
 ) 
 AED: lastpage setting LastPage
-[59
-
- <./figuras/roadmap.png>]
+[61 <./figuras/roadmap.png>]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1578,13 +1627,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 12559 strings out of 493304
- 181830 string characters out of 6139871
- 307558 words of memory out of 5000000
- 15489 multiletter control sequences out of 15000+600000
- 78330 words of font info for 53 fonts, out of 8000000 for 9000
+ 12599 strings out of 493304
+ 182377 string characters out of 6139871
+ 307646 words of memory out of 5000000
+ 15510 multiletter control sequences out of 15000+600000
+ 89575 words of font info for 57 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,14n,38p,822b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,38p,822b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
@@ -1592,12 +1641,14 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 f/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri
 12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (61 pages, 2423643 bytes).
+b></usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmsy10.pfb>
+Output written on tcc.pdf (63 pages, 2742846 bytes).
 PDF statistics:
- 862 PDF objects out of 1000 (max. 8388607)
- 744 compressed objects within 8 object streams
- 212 named destinations out of 1000 (max. 500000)
- 509 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 918 PDF objects out of 1000 (max. 8388607)
+ 792 compressed objects within 8 object streams
+ 222 named destinations out of 1000 (max. 500000)
+ 551 words of extra memory for PDF output out of 10000 (max. 10000000)
 

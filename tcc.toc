@@ -8,17 +8,18 @@
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{11}{chapter.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Contexto do Neg\IeC {\'o}cio}}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Solu\IeC {\c c}\IeC {\~a}o}{13}{section.2.1}
+\contentsline {section}{\numberline {2.1}Problema}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Solu\IeC {\c c}\IeC {\~a}o}{14}{section.2.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Ger\IeC {\^e}ncia de Requisitos}}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}N\IeC {\'\i }vel de Portf\IeC {\'o}lio}{15}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Backlog Portf\IeC {\'o}lio}{15}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Backlog Programa}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.1}\textit {Backlog Portf\IeC {\'o}lio}}{15}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}\textit {Backlog Programa}}{18}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Requisitos n\IeC {\~a}o-funcionais}{19}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Features Identificadas}{19}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Roadmap}{20}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}N\IeC {\'\i }vel de Time}{21}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Backlog Time}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}\textit {Backlog Time}}{22}{subsection.3.3.1}
 \contentsline {section}{\numberline {3.4}Ger\IeC {\^e}ncia de Mudan\IeC {\c c}a}{32}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Atributos de Requisitos}{32}{subsection.3.4.1}
 \contentsline {subsubsection}{\numberline {3.4.1.1}Origem}{32}{subsubsection.3.4.1.1}
@@ -68,7 +69,10 @@
 \contentsline {subsection}{\numberline {C.3.2}Usu\IeC {\'a}rios}{57}{subsection.C.3.2}
 \contentsline {subsubsection}{\numberline {C.3.2.1}Ambiente dos Usu\IeC {\'a}rios}{57}{subsubsection.C.3.2.1}
 \contentsline {section}{\numberline {C.4}Vis\IeC {\~a}o Geral do Produto}{57}{section.C.4}
+\contentsline {section}{\numberline {C.5}\IeC {\'E}picos}{58}{section.C.5}
+\contentsline {section}{\numberline {C.6}Features}{58}{section.C.6}
+\contentsline {section}{\numberline {C.7}Hist\IeC {\'o}rias de Usu\IeC {\'a}rio}{59}{section.C.7}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Roadmap}}{59}{appendix.D}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Roadmap}}{61}{appendix.D}

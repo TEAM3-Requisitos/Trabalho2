@@ -5,10 +5,20 @@
 \FloatBarrier
 \begin{figure}[!htpd]
 		\centering
-		\includegraphics[scale=0.5]{figuras/cronograma}
+		\includegraphics[scale=0.5]{figuras/cron1}
 		\label{img:cronograma}
 		\caption{Cronograma de Atividades}
 \end{figure}
+\FloatBarrier
+
+\FloatBarrier
+\begin{figure}[!htpd]
+		\centering
+		\includegraphics[scale=0.5]{figuras/cron2}
+		\label{img:cronograma}
+		\caption{Cronograma de Atividades}
+\end{figure}
+\FloatBarrier
 
 \chapter{Processo de Engenharia de Requisitos}
 \label{sec:processo}
@@ -19,6 +29,7 @@
 		\label{img:processoeletrojun}
 		\caption{Visão geral do processo}
 \end{figure}
+\FloatBarrier
 
 \chapter{Documento de Visão}
 \label{sec:visão}
@@ -140,6 +151,63 @@ Todos os usuários da plataforma poderão acessá-la por acesso à internet, via
 \section{Visão Geral do Produto}
 
 O sistema consiste num website para auxiliar o desenvolvimento de projetos acadêmicos. Este sistema possibilita que os estudantes compartilhem ideias de projetos e outras informações relevantes sobre o assunto. Os usuários podem contribuir com os projetos existentes de várias formas e podem executar tarefas dentro destes projetos, sendo premiado com moedas do sistema. Os melhores projetos participam de um ranking de projetos onde os usuários podem votar e escolher entre os projetos disponíveis, corroborando para a divulgação do mesmo, de forma a facilitar e propiciar a comercialização. O criador do projeto no sistema pode convidar membros para o projeto e criar atividades. Há também um sistema de chat que possibilita a comunicação entre os usuários.
+
+\section{Épicos}
+
+Analisando a solução em nível macro, foram especificados quatro épicos que abrangessem todo o contexto da proposta, delimitando as fronteiras do problema a ser resolvido. Estes são:
+
+\textbf{Épico 01 - EP-01:} Gerenciamento de Usuários: Abrange todas as ações de administração dos usuários do sistema, desde o cadastro de um usuário até a sua exclusão do sistema.
+
+\textbf{Épico 02 - EP-02:} Gerenciamento de Projetos: Abrange todas as ações de administração de projetos no sistema, desde a sua publicação até o seu cumprimento total.
+
+\textbf{Épico 03 - EP-03:} Gerenciamento de Atividades: Abrange todas as ações de administração e gerenciamento de atividades pontuais, dentro e fora dos projetos.
+
+\textbf{Épico 04 - EP-04:} Gerenciamento de Premiações: Abrange todas as ações manutenção de premiações aos usuários do sistema.
+
+\section{Features}
+
+A partir dos Épicos, foram levantadas e priorizadas as Features fundamentais, de acordo com a seguinte tabela:
+
+\FloatBarrier
+\begin{table}[!htpd]
+\centering
+\caption{Features priorizadas}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Épico} & \textbf{Features}                  & \textbf{Descrição}                                                                                                                                    \\ \hline
+Épico 1        & Feature 1 - Manutenção de Usuários & \begin{tabular}[c]{@{}l@{}}Esta feature tem como objetivo manter \\ os usuários do sistema, permitindo o \\ cadastro e edição de perfil.\end{tabular} \\ \hline
+Épico 1        & Feature 2 - Acesso dos Usuários    & \begin{tabular}[c]{@{}l@{}}Esta feature é responsável pelo controle \\ de acesso dos usuários, que podem \\ realizar o login e o logout.\end{tabular} \\ \hline
+Épico 1        & Feature 3 - Manutenção de projetos & \begin{tabular}[c]{@{}l@{}}Feature responsável pelo cadastro, \\ edição, e exclusão de projetos.\end{tabular}                                         \\ \hline
+Épico 1        & Feature 11- Sistema de tarefas     & \begin{tabular}[c]{@{}l@{}}Feature responsável por especificar e \\ controlar atividades designadas aos \\ usuários do projeto.\end{tabular}          \\ \hline
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+\section{Histórias de Usuário}
+
+Dentro das Features priorizadas foram selecionadas ainda as Histórias de Usuário priorizadas.
+
+\FloatBarrier
+\begin{table}[!htpd]
+\centering
+\caption{Histórias de Usuário priorizadas}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Feature} & \textbf{Histórias de Usuário} & \textbf{Descrição}                                                                                                                                                                           \\ \hline
+Feature 1        & US1                           & \begin{tabular}[c]{@{}l@{}}Eu como usuário, quero cadastrar-me no \\ sistema de compartilhamento de projetos.\end{tabular}                                                                   \\ \hline
+Feature 1        & US2                           & \begin{tabular}[c]{@{}l@{}}Eu como usuário, quero alterar meus dados \\ cadastrais para manter meu cadastro atualizado.\end{tabular}                                                         \\ \hline
+Feature 1        & US3                           & \begin{tabular}[c]{@{}l@{}}Eu como usuário, quero excluir minha conta \\ para não ser mais usuário do sistema.\end{tabular}                                                                  \\ \hline
+Feature 2        & US4                           & \begin{tabular}[c]{@{}l@{}}Eu como usuário, quero fazer login no sistema \\ de compartilhamento de projetos para,acessar \\ o sistema.\end{tabular}                                          \\ \hline
+Feature 2        & US5                           & \begin{tabular}[c]{@{}l@{}}Eu como usuário, quero fazer logout no sistema \\ para sair do sistema e encerrar a sessão.\end{tabular}                                                          \\ \hline
+Feature 3        & US8                           & \begin{tabular}[c]{@{}l@{}}Eu como criador de projeto, quero criar um \\ projeto para para que ele possa ser desenvolvido \\ no sistema.\end{tabular}                                        \\ \hline
+Feature 3        & US9                           & \begin{tabular}[c]{@{}l@{}}Eu como criador do projeto, quero remover um \\ projeto para interromper/impedir o seu \\ desenvolvimento no sistema.\end{tabular}                                \\ \hline
+Feature 3        & US10                          & \begin{tabular}[c]{@{}l@{}}Eu como criador de projeto, quero editar os dados \\ do projeto para corrigir algum erro de digitação, \\ ou refinar os dados cadastrais do projeto.\end{tabular} \\ \hline
+Feature 3        & US33                          & \begin{tabular}[c]{@{}l@{}}Eu como criador do projeto, quero manter tarefas \\ para que os contribuidores possam contribuir \\ com elas.\end{tabular}                                        \\ \hline
+\end{tabular}
+\end{table}
+\FloatBarrier
 
 \chapter{Roadmap}
 \label{sec:roadmap}
