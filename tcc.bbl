@@ -5,4 +5,9 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.2 }
 
+\bibitem[SOMMERVILLE 2007]{ian}
+\abntrefinfo{SOMMERVILLE}{SOMMERVILLE}{2007}
+{SOMMERVILLE, I. Engenharia de software 8ª ed.
+São Paulo, 2007.}
+
 \end{thebibliography}
