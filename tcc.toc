@@ -76,3 +76,7 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
 \contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Roadmap}}{61}{appendix.D}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {E}\MakeTextUppercase {Atas de Reuni\IeC {\~o}es}}{63}{appendix.E}
